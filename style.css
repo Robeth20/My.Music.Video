@@ -1,0 +1,14 @@
+
+body {
+    background-image: url('Malone.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+video {
+    width: 900px;
+    position: sticky;
+
+}
+   
